@@ -1,4 +1,4 @@
-branch: master
+branch: trunk
 language: java
 buildCmd: mvn compile
 testCmd: mvn test
